@@ -1,2 +1,2 @@
 # moonman
-pygal man on visual
+pygal man on moon visual
